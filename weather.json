@@ -1,0 +1,73 @@
+{
+
+"weatherMainland": [
+  "> :sunny: Clear",
+  "> :white_sun_cloud: Cloudy",
+  "> :white_sun_rain_cloud: Cloudy with a chance of rain",
+  "> :white_sun_rain_cloud:  Sunny with a chance of rain",
+  "> :thunder_cloud_rain: Heavy Rain",
+  "> :thunder_cloud_rain: Storming",
+  "> :white_sun_cloud::warning: Cloudy, high Nephilim activity",
+  "> :high_brightness: Clear, low Nephilim activity"
+],
+
+"weatherCairm":[
+  "> :sunny: Clear",
+  "> :white_sun_cloud: Cloudy",
+  "> :white_sun_rain_cloud: Cloudy with a chance of rain",
+  "> :white_sun_rain_cloud:  Sunny with a chance of rain",
+  "> :thunder_cloud_rain: Heavy Rain",
+  "> :thunder_cloud_rain: Storming",
+  "> :thunder_cloud_rain: :exclamation: Storming, unsafe waters",
+  "> :cloud_rain::warning: Raining, High M-Nephilim activity."
+
+],
+"weatherRatoria":[
+  "> :white_sun_cloud: Cloudy",
+  "> :white_sun_rain_cloud: Cloudy with a chance of rain",
+  "> :cloud_snow: Snow with a chance of rain",
+  "> :cloud_rain: Heavy Rain",
+  "> :thunder_cloud_rain: Storming",
+  "> :snowflake: Snowing",
+  "> :snowflake::cloud_snow: Heavy snow",
+  "> :cloud_snow: Blizzard, low Nephilim activity",
+  "> :snowflake: :warning:  Snowing, high Nephilim activity"
+],
+
+"weatherBelstagar":[
+  "> :sunny: Clear",
+  "> :white_sun_cloud: Cloudy",
+  "> :white_sun_rain_cloud: Cloudy with a chance of rain",
+  "> :white_sun_rain_cloud:  Sunny with a chance of rain",
+  "> :thunder_cloud_rain: Heavy Rain",
+  "> :thunder_cloud_rain: Storming",
+  "> :thunder_cloud_rain: :exclamation: Storming, unsafe waters",
+  "> :cloud_rain: :warning: Raining, High M-Nephilim activity."
+],
+
+"lunarPhaseGreenWeek2":[
+  ":first_quarter_moon: Half Green Moon \nNormal Nephilim activity",
+  ":full_moon: Full Green Moon \n:warning: Increased Nephilim Activity \n:warning: Nephilim Deal 1.5x Damage"
+],
+"lunarPhaseGreenWeek3":[
+  ":full_moon: Full Green Moon \n:warning: Increased Nephilim Activity \n:warning: Nephilim Deal 1.5x Damage",
+  ":waning_crescent_moon: Late Green Moon \nNormal Nephilim activity"
+],
+"lunarPhaseGreenWeek4":[
+  ":waning_crescent_moon: Late Green Moon \nNormal Nephilim activity", 
+  ":new_moon: No Green Moon \n:zzz: Decreased Nephilim activity"
+],
+"lunarPhaseBlueWeek2":[
+  ":first_quarter_moon:Half Blue Moon \nHealing is 2x As Effective",
+  ":full_moon: Full Blue Moon \nHealing is 2x As Effective \n 1.5x EXP Gain"
+],
+"lunarPhaseBlueWeek3":[
+  ":full_moon: Full Blue Moon \nHealing is 2x As Effective \n 1.5x EXP Gain",
+  ":waning_crescent_moon: Late Blue Moon \nNo foreseeable effect"
+],
+"lunarPhaseBlueWeek4":[
+  ":waning_crescent_moon: Late Blue Moon \nNo foreseeable effect",
+  ":new_moon: No Blue Moon \nNo foreseeable effect"
+]
+
+}

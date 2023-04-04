@@ -1,0 +1,49 @@
+
+
+{
+"quotes":
+    
+    ["> Broker: *G'day, Traveler. Came around again to see my wares? I've got something you might be interested with.*",
+    
+    "> Broker: *Looking for wares, are we? Come, come in. Look for what you like.*",
+    
+    "> Broker: *Welcome, heh. I know why you're here. You're looking for stuff you can't get from normal markets, aren't you? Well, you're just in luck, lad. I had just restocked earlier this day... you seeing something of your interest?*",
+    
+    "> Talos: Ahem. Greetings, Traveller! It seems like the Broker is currently not here to present his wares, so I have been appointed to do so in his stead. Here is a message from The Broker: *G'day. Here for more wares, are we? Stuff to scratch that itch you can't quite scratch with normal markets? Well, you're in luck! Come have a look...*"
+    
+    ],
+
+"quotes2":
+    ["> Broker: *How about that, Traveler?*",
+    "> Broker: *Whaddaya think, Traveler?*",
+    "> Broker: *Like what you see, Traveler?*",
+    "> Broker: *Still window shoppin', Traveler?*"],
+    
+"item1":
+      ["**Absalom's Hair** -`[7 RWM]`\n> 'Run, run like Absalom did. We took his hair out of the tree branches. Brew it to create x10 Speed Buff Potion for yourself.'",
+      
+      "**Eye of Ulgath-Shuttah.** - `[35 RWM]`\n> 'The Telyoas Nephilims were afraid of this spherical rock. Once used, it will disappear. Allows you to scare ONLY T-nephilim bosses, and still get loot and EXP. The boss must be in your Tier Range.'",
+      
+      "**Scales of Aruna** - `[15 RWM]`\n> 'Enchanted round, thin, black and red jewels. Reduces all damage by 0.25x for an entire battle.'"],
+
+"item2":
+      [" **Book of Shud** -`[25 RWM]`\n> 'Adds another Enchantment slot to your weapon'",
+      
+      "**Mother Ithala's Amulet** - `[15 RWM]`\n> 'Protects you from a fatal attack. A finishing blow on you will be nullified and leave you alive for 10 HP.'",
+
+      "**The Dirt of Gnrcsh** - `[5 WM]`\n> 'Gnorsch gnrsch, mmm Dirt. Good for your health. Heals you by 10% of your total health.'"],
+
+"item3":
+      ["**Enchanted Roll of Cheese** - `[2 RWM]`\n> 'Mmm... good cheese. Allows you to use `!speed` command for one round.'",
+
+      "**Crown of Bones** - `[30RWM]`\n> 'Mangled finger bones of war victims formed into a morbid crown sold by an ex-member of the Virgins of the Moon. Permanently increases your damage by +1.5x. Does not stack with other damage effects'",
+
+      "**Scroll of Methis** - `[35 RWM]`\n> 'A scroll from Hell, smuggled out by a scholar. Permanently increases your damage by 2x. Does not stack with other damage effects.'"],
+
+"item4":
+    ["**Katum Velus** - `[3 RWM]`\n> 'A sacred wood totem from Arjure, only worn during important rituals. Well, you probably can wear it without them knowing. Negates one OPEN, but skip your next turn. Can only have 1 in your inventory.'",
+
+  "**Grimoire of Heliotrope** - `[25 RWM]`\n> 'Grimoire that can only be USED by HEALER class. Increases heal permanently by 1.5x. Effect does not stack with other healing effects.'"]
+      
+    
+}
